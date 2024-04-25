@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "regiao": "Setor 1",
+        "descricao": "Buraco na porta",
+        "latitude": -8.376674770708746,
+        "longitude": -35.00831337895276 
+    },
+    {
+        "id": 2,
+        "regiao": "Setor 2",
+        "descricao": "Parou a máquina",
+        "latitude": -8.374239953422938, 
+        "longitude": -35.020107376460544 
+    },
+    {
+        "id": 3,
+        "regiao": "Setor 3",
+        "descricao": "Fogo no setor",
+        "latitude": -8.378172407499635, 
+        "longitude": -35.02618477141019
+    }
+]
